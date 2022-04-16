@@ -8,7 +8,7 @@ function App() {
       <Headercomponent />
       <header className="header">
         <div>
-          <p>Header</p>
+          <p>MURALI</p>
         </div>
       </header>
       <div className="navigation">
